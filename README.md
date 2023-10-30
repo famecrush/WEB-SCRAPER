@@ -1,6 +1,6 @@
 # WEB-SCRAPER
-A simple web-scraper which scrape the title,description and price value of the books.
-For more advancement the selinium and beautifulsoup library can be used and 
+A simple web-scraper which scrap the title,description and price value of the books.
+For more advancement the selenium and beautifulsoup library can be used and 
 I will update these code with these libraries very soon.
 
 Website used in these repository("https://books.toscrape.com/").
