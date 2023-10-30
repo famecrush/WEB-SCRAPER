@@ -3,7 +3,7 @@ from ecommerce_scraper.items import ProductItem
 
 class ProductsSpider(scrapy.Spider):
     name = "products"
-    start_urls = ["https://books.toscrape.com/catalogue/category/books/psychology_26/index.html"]
+    start_urls = ["https://books.toscrape.com/"]
 
     def parse(self, response):
         product_links = response.css("h3 a::attr(href)").getall()
