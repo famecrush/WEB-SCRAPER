@@ -1,5 +1,6 @@
 # WEB-SCRAPER
 A simple web-scraper which scrape the title,description and price value of the books.
+website used in these repository("https://books.toscrape.com/").
 
 # FEATURES
 1. Scrap the title,description and price value of the books.
