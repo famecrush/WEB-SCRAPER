@@ -2,7 +2,8 @@
 A simple web-scraper which scrape the title,description and price value of the books.
 For more advancement the selinium and beautifulsoup library can be used and 
 I will update these code with these libraries very soon.
-website used in these repository("https://books.toscrape.com/").
+
+Website used in these repository("https://books.toscrape.com/").
 
 # FEATURES
 1. Scrap the title,description and price value of the books.
